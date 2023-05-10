@@ -9,8 +9,8 @@ contract Function{
   }
   function returnLocalVariable() public view returns(uint)
   {
-     uint stm=20;
-     return stm;
+     uint stmv=20;
+     return stmv;
   }
   
     
